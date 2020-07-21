@@ -1,0 +1,11 @@
+﻿Enter	your first expression
+Then press Tab	and exter the equivalent
+of it in	an other language.
+
+Empty lines	are ignored.
+
+Make sure	to put no more
+and no less than	1 Tab per line.
+
+This tool will help you practice	exactly what an
+expression means	in another language

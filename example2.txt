@@ -1,0 +1,66 @@
+﻿werfen	throw
+anziehen	put on
+schief laufen	go wrong
+schrecken	scare
+niesen	sneeze
+erwähnen	mention
+Der Hörer/-	listener
+Die Woche/-n	week
+Der Gast	guest
+Das Studio	studio
+Der Schauspieler	actor
+Das Leben	life
+übel	evil
+Die Karriere	career
+gar	at all
+Die Scheidung	divorce
+Der Umstand	circumstance
+Die Sicherheit	safety
+Der Traum	dream
+Das Geld	money
+Das Konto	account
+Die Arbeit	work
+erschöpfen	exhaust
+Die Geduld	patience
+Der Job	job
+Der Vertrag	contract
+Der Schrank	cabinet
+Der Teller	plate
+Die Tasse	cup
+Der Fehler	mistake
+furchtbar	awful
+Der Geruch	smell
+Der Stall	stall
+Das Bett	bed
+Das Sofa	sofa
+Der Sessel	armchair
+Die Tür	door
+Das Fenster	window
+Das Bild	picture
+Das Regal	shelf
+Der Teppich	carpet
+Der Boden	ground
+Die Heizung	heating
+Der Schrank	closet
+Der Stuhl	chair
+Der Tisch	table
+Die Wand	wall
+Die Lampe	lamp
+Die Pflanze	plant
+Der Körper	body
+Der Plan	plan
+Das Zimmer	room
+Der Mantel	coat
+Die Socke	sock
+Das Hemd	shirt
+Die Bluse	blouse
+Die Hose	pants
+Der Rock	skirt
+Der Pullover	sweater
+Der Anzug	suit
+Die Jacke	jacket
+Das Pyjama	pajama
+Das T-Shirt	T-shirt
+Der Gürtel	belt
+Die Krawatte	tie
+Das Pferd	horse
